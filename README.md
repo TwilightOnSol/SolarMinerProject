@@ -1,4 +1,4 @@
-# Hyperion Solar Miner
+# Solar Miner
 
 A hybrid crypto miner using solar and convetional energy
 
