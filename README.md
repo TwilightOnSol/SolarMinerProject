@@ -30,6 +30,11 @@ A hybrid crypto miner using solar and convetional energy
 - Cost Cutting
 - Energy Saving
 
+## Sources
+- https://github.com/BitMaker-hub/NerdMiner_v2
+- https://bitronics.store/
+- https://amazon.com/
+
 ## Contributors 
 - Jackson AKA Twilight (Code & Funding)
 - Drake (3d Design)
