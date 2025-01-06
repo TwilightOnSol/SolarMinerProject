@@ -20,7 +20,7 @@ A hybrid crypto miner using solar and convetional energy
 ## Energy Usage
 - 2.4 watts
 - 3.16$ a year
-- 70.5/h (hashrate) per miner
+- 70.5h/s (hashrate) per miner
 - Solar energy saves
 - 1000 hours of energy saves with solar
 
