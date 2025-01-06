@@ -30,3 +30,9 @@ A hybrid crypto miner using solar and convetional energy
 - Cost Cutting
 - Energy Saving
 
+## Contributors 
+- Jackson AKA Twilight (Code & Funding)
+- Drake (3d Design)
+- Kyle (Electronics)
+- Ojas (General Help)
+
