@@ -1,10 +1,9 @@
-# SolarMinerProject
+# Solar Miner Project
 
 ## Overview
-This repository is part of the TwilightOnSol ecosystem. It has been audited and refactored for better performance and maintainability.
+A research-focused project exploring the feasibility of solar-powered cryptocurrency mining. It includes firmware for Nerdminer devices and 3D design files for hardware casing.
 
-## Project Structure
-- NerdminerOS.bin
-- README.md
-- STL for casing + shelves.zip
-- Manus AI feedback & overview
+## Features
+- **NerdminerOS**: Custom firmware for low-power mining hardware.
+- **Hardware Designs**: Includes STL files for 3D-printable casings and shelves.
+- **Sustainability**: Focused on reducing the carbon footprint of mining operations.
