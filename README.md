@@ -7,3 +7,4 @@ This repository is part of the TwilightOnSol ecosystem. It has been audited and 
 - NerdminerOS.bin
 - README.md
 - STL for casing + shelves.zip
+- Manus AI feedback & overview
